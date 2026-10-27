@@ -1,4 +1,3 @@
-
 # Browser History Simulator (C++)
 
 A console-based browser history simulator built using a manually
